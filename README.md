@@ -1,4 +1,5 @@
-```python
+```
+
 markdown_content = """
 # Volatility Voyage
 
