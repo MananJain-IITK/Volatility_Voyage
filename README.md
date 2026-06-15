@@ -1,12 +1,6 @@
-```
 
-markdown_content = """
+
 # Volatility Voyage
-
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Quant Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-success)
-![Institution](https://img.shields.io/badge/Institution-IIT%20Kanpur-maroon)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 **Volatility Voyage** is a comprehensive Python-based quantitative research and algorithmic trading framework. Developed as part of the Summer 2025 initiative by the **Finance and Analytics Club, IIT Kanpur**, this project explores the progression from foundational technical analysis to advanced stochastic volatility modeling and capital-neutral hedging strategies.
 
@@ -19,7 +13,6 @@ markdown_content = """
 4. [Key Results & Metrics](#key-results--metrics)
 5. [Installation & Setup](#installation--setup)
 6. [Usage Guide](#usage-guide)
-7. [Contributors & Mentorship](#contributors--mentorship)
 
 ---
 
@@ -67,10 +60,6 @@ The codebase relies heavily on the following quantitative models:
 
 **1. Exponentially Weighted Moving Average (EWMA) Volatility:**
 
-```
-
-```text
-[file-tag: README.md]
 
 ```math
 \sigma_t^2 = (1 - \lambda)r_{t-1}^2 + \lambda \sigma_{t-1}^2
